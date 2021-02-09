@@ -1,6 +1,9 @@
-### Hi!
-- Major: Information Safety in ZJU.
+### Hi there!🌟
+- I'm a student major in Information Safety in ZJU.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yinwhe&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinwhe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Yinwhe/Yinwhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

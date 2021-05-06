@@ -1,9 +1,9 @@
 ### Hi there!🌟
 - I'm a student major in Information Safety in ZJU.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TLBZero&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yinwhe&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TLBZero&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinwhe&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 Here are some ideas to get you started:
 

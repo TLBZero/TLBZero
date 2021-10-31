@@ -20,4 +20,4 @@
 
 ---
 
-[![](https://github-readme-stats.vercel.app/api?username=Yinwhe&show_icons=true&count_private=true&hide_border=true)]() [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinwhe&layout=compact&hide=css,html&langs_count=7&count_private=true&hide_border=true)]()
+[![](https://github-readme-stats.vercel.app/api?username=Yinwhe&show_icons=true&count_private=true&hide_border=true)]() [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinwhe&layout=compact&hide=css,html,javaScript,Less&langs_count=7&count_private=true&hide_border=true)]()

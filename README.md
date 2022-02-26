@@ -2,7 +2,7 @@
 
 🌈 ZJU **IS** undergraduate student.
 
-💻 Currently interested in **System**.
+💻 Currently interested in **Rust** and **Operating System**.
 
 ### Languages and Tools
 <p align="left">

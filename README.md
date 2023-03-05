@@ -1,6 +1,6 @@
 ## Hi, I'm Yinwhe! 🌟
 
-🌈 ZJU **IS** undergraduate student.
+💗 ZJU **IS** undergraduate student.
 
 💻 Currently interested in **Rust** and **Operating System**.
 

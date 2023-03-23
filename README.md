@@ -23,4 +23,5 @@
 
 ---
 
-<figure><embed src="https://wakatime.com/share/@Yinwhe/d92dc39b-f5e9-4289-90f0-71a6483db19b.svg"></embed></figure>
+[![](https://wakatime.com/share/@Yinwhe/d92dc39b-f5e9-4289-90f0-71a6483db19b.svg)]()
+[![](https://wakatime.com/share/@Yinwhe/38c1e69e-5ede-4c75-92bf-4ebec53b7819.svg)]()

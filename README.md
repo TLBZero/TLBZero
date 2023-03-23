@@ -20,3 +20,7 @@
 ---
 
 [![](https://github-readme-stats.vercel.app/api?username=Yinwhe&show_icons=true&count_private=true&hide_border=true)]() [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinwhe&layout=compact&hide=css,Less,Assembly,SCSS,HTML,verilog&langs_count=8&count_private=true&hide_border=true)]()
+
+---
+
+<figure><embed src="https://wakatime.com/share/@Yinwhe/d92dc39b-f5e9-4289-90f0-71a6483db19b.svg"></embed></figure>
